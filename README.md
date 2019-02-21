@@ -15,7 +15,7 @@ The aim is to keep it as simple as possible, but include libraries and conventio
 
 ## Conventions
 
-* We use Yarn! This is enforced with the `use-yarn` package, which prevents running `npm install` within the project
+* **We use Yarn!** This is enforced with the `use-yarn` package, which prevents running `npm install` within the project
 
 
 
